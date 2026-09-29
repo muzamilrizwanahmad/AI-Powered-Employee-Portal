@@ -44,10 +44,4 @@ Employee Portal streamlines everyday HR operations such as leave management, doc
 * Frontend: HTML, CSS, JavaScript, Chart.js
 * Design: Custom UI system (cream and yellow palette, DM Sans typography) applied consistently across all pages
 
-## Project Status
 
-Actively developed as a personal and academic project. Core functionality including auth, leave management, document custody, admin workflows, and AI integration is complete. UI polish and additional features are ongoing.
-
-## Author
-
-Built by Muzamil, Software Engineering student at the University of Management and Technology (UMT), Lahore, Pakistan.
